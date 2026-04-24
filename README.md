@@ -20,8 +20,11 @@
 
 ### Projects
 - **Mocap Plus:** モーションキャプチャ解析ツール
-  - [アプリはこちら](https://minoru-s.github.io/mocap/)
-  - [Repository](https://github.com/minoru-s/mocap)
+  - [アプリの利用はこちら](https://minoru-s.github.io/mocap/)
+  - [GitHub Repository](https://github.com/minoru-s/mocap)
+- **Bib Generator:** LaTeX参考文献作成補助ツール
+  - [アプリの利用はこちら](https://minoru-s.github.io/bib-generator/)
+  - [GitHub Repository](https://github.com/minoru-s/bib-generator)
 
 ### Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minoru-s&theme=github)
