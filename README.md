@@ -3,7 +3,7 @@
 **R&D Engineer / Researcher**
 
 発想力と具現化する力を軸に、ハードウェアとソフトウェアの両方で開発・研究を行っています。
-現在はハプティクスやVR/AR技術を用いた新しい体験の創出に取り組んでおり、過去には月面探査ローバーや未知環境における群ロボットの研究開発を行っていました。
+現在はハプティクスやVR/AR技術に関する研究に取り組んでおり、過去には月面探査ローバーや未知環境における群ロボットの研究開発を行っていました。
 
 ### Affiliations
 - **2026.04 - Present:** 東京科学大学大学院 工学院 情報通信系 長谷川研究室
@@ -19,9 +19,9 @@
 - **Hardware & Simulation:** Unity, Fusion 360
 
 ### Projects
-- **Mocap Plus:** モーションキャプチャ解析支援ツール
-  - [アプリの利用](https://minoru-s.github.io/mocap/)
-  - [リポジトリ](https://github.com/minoru-s/mocap)
+- **Mocap Plus:** モーションキャプチャ解析ツール
+  - [アプリはこちら](https://minoru-s.github.io/mocap/)
+  - [Repository](https://github.com/minoru-s/mocap)
 
 ### Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minoru-s&theme=github)
