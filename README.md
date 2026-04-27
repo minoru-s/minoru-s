@@ -11,7 +11,7 @@
 - **2022.04 - 2026.03:** 中央大学 理工学部 電気電子情報通信工学科
 
 ### Links
-- [Portfolio](https://minoru-s.github.io/portfolio/)
+- [Portfolio Site](https://minoru-s.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/minoru-s)
 
 ### Technical Stack
@@ -22,6 +22,9 @@
 - **Mocap Plus:** モーションキャプチャ解析ツール
   - [アプリの利用はこちら](https://minoru-s.github.io/mocap/)
   - [GitHub Repository](https://github.com/minoru-s/mocap)
+- **YuruTask:** ゆるめのタスク管理アプリ
+  - [アプリの利用はこちら](https://minoru-s.github.io/yurutask/)
+  - [GitHub Repository](https://github.com/minoru-s/yurutask)
 - **Bib Generator:** LaTeX参考文献作成補助ツール
   - [アプリの利用はこちら](https://minoru-s.github.io/bib-generator/)
   - [GitHub Repository](https://github.com/minoru-s/bib-generator)
