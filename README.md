@@ -67,5 +67,5 @@ Currently researching haptics and VR/AR at Tokyo Tech. Previously worked on luna
 
 ## ▍Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minoru-s&theme=github" width="100%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minoru-s&theme=github" width="49.5%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minoru-s&theme=github&utcOffset=9" width="49.5%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minoru-s&theme=github" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minoru-s&theme=github&utcOffset=9" width="49%"/>
