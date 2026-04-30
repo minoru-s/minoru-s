@@ -9,8 +9,9 @@ R&D engineer working across both hardware and software, driven by curiosity and 
 Currently researching haptics and VR/AR at Tokyo Tech. Previously worked on lunar exploration rovers and multi-robot systems in unknown environments.
 
 
-<a href="https://minoru-s.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=githubpages&logoColor=white" height="28"></a>
-<a href="https://www.linkedin.com/in/minoru-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://minoru-s.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minoru-s)
+
 
 <br>
 
@@ -66,6 +67,11 @@ Currently researching haptics and VR/AR at Tokyo Tech. Previously worked on luna
 <br>
 
 ## ▍Stats
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minoru-s&theme=github" width="100%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minoru-s&theme=github" width="49%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minoru-s&theme=github&utcOffset=9" width="49%"/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minoru-s&theme=github" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minoru-s&theme=github" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minoru-s&theme=github&utcOffset=9" width="49.5%" />
+</div>
