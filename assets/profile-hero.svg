@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Minoru Saito — real-world signals to usable software</title>
+  <desc id="desc">Animated system diagram connecting PDF, GPS, motion and spatial data to interactive tools.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#62E6FF"/>
+      <stop offset=".52" stop-color="#7C8CFF"/>
+      <stop offset="1" stop-color="#C779FF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#7C8CFF" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#7C8CFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8B949E" stroke-opacity=".12"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+    <style>
+      .bg{fill:#0D1117}.panel{fill:#111820;stroke:#30363D}.grid{fill:url(#grid)}
+      .muted{fill:#8B949E}.text{fill:#F0F6FC}.line{stroke:#3A4553}
+      .signal{stroke:url(#accent);stroke-dasharray:7 12;animation:flow 7s linear infinite}
+      .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3.2s ease-in-out infinite}
+      .float-a{animation:float 5s ease-in-out infinite}.float-b{animation:float 5s ease-in-out -2.5s infinite}
+      @keyframes flow{to{stroke-dashoffset:-190}}
+      @keyframes pulse{0%,100%{opacity:.45;transform:scale(.88)}50%{opacity:1;transform:scale(1.08)}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+      @media (prefers-color-scheme:light){
+        .bg{fill:#F6F8FA}.panel{fill:#FFFFFF;stroke:#D0D7DE}.text{fill:#1F2328}
+        .muted{fill:#57606A}.line{stroke:#D0D7DE}.grid{opacity:.65}
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1200" height="360" rx="24"/>
+  <rect class="grid" width="1200" height="360" rx="24"/>
+  <ellipse cx="600" cy="190" rx="315" ry="145" fill="url(#glow)" filter="url(#blur)"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="54" y="52" class="muted" font-size="12" letter-spacing="3">MINORU SAITO / SYSTEM 01</text>
+    <circle cx="1114" cy="46" r="4" fill="#3FB950" class="pulse"/>
+    <text x="1127" y="51" class="muted" font-size="11" letter-spacing="1.5">BUILDING</text>
+
+    <g class="float-a">
+      <rect x="50" y="92" width="178" height="56" rx="13" class="panel"/>
+      <circle cx="76" cy="120" r="6" fill="#62E6FF"/>
+      <text x="95" y="117" class="text" font-size="13" font-weight="650">PDF</text>
+      <text x="95" y="135" class="muted" font-size="10">hidden structure</text>
+    </g>
+    <g class="float-b">
+      <rect x="50" y="160" width="178" height="56" rx="13" class="panel"/>
+      <circle cx="76" cy="188" r="6" fill="#72D8B0"/>
+      <text x="95" y="185" class="text" font-size="13" font-weight="650">GPS</text>
+      <text x="95" y="203" class="muted" font-size="10">noisy traces</text>
+    </g>
+    <g class="float-a">
+      <rect x="50" y="228" width="178" height="56" rx="13" class="panel"/>
+      <circle cx="76" cy="256" r="6" fill="#7C8CFF"/>
+      <text x="95" y="253" class="text" font-size="13" font-weight="650">MOTION</text>
+      <text x="95" y="271" class="muted" font-size="10">physical behavior</text>
+    </g>
+
+    <path d="M228 120 C340 120 350 178 447 178" fill="none" class="line" stroke-width="1.5"/>
+    <path d="M228 188 H447" fill="none" class="line" stroke-width="1.5"/>
+    <path d="M228 256 C340 256 350 198 447 198" fill="none" class="line" stroke-width="1.5"/>
+    <path d="M228 120 C340 120 350 178 447 178" fill="none" class="signal" stroke-width="2"/>
+    <path d="M228 188 H447" fill="none" class="signal" stroke-width="2"/>
+    <path d="M228 256 C340 256 350 198 447 198" fill="none" class="signal" stroke-width="2"/>
+
+    <rect x="447" y="98" width="306" height="180" rx="22" class="panel"/>
+    <rect x="469" y="120" width="262" height="136" rx="15" fill="none" stroke="url(#accent)" stroke-opacity=".55"/>
+    <circle cx="600" cy="156" r="22" fill="url(#glow)" class="pulse"/>
+    <circle cx="600" cy="156" r="7" fill="url(#accent)"/>
+    <text x="600" y="201" class="text" font-size="24" font-weight="720" text-anchor="middle" letter-spacing=".5">MAKE IT LEGIBLE</text>
+    <text x="600" y="226" class="muted" font-size="11" text-anchor="middle" letter-spacing="2">PROTOTYPE · MEASURE · ITERATE</text>
+
+    <path d="M753 188 H920" fill="none" class="line" stroke-width="1.5"/>
+    <path d="M753 188 H920" fill="none" class="signal" stroke-width="2"/>
+
+    <g class="float-b">
+      <rect x="920" y="110" width="230" height="156" rx="18" class="panel"/>
+      <text x="946" y="142" class="muted" font-size="10" letter-spacing="2">OUTPUT</text>
+      <text x="946" y="177" class="text" font-size="19" font-weight="700">INTERACTIVE</text>
+      <text x="946" y="201" class="text" font-size="19" font-weight="700">TOOLS</text>
+      <rect x="946" y="222" width="72" height="4" rx="2" fill="#62E6FF"/>
+      <rect x="1025" y="222" width="44" height="4" rx="2" fill="#7C8CFF"/>
+      <rect x="1076" y="222" width="48" height="4" rx="2" fill="#C779FF"/>
+    </g>
+
+    <text x="54" y="326" class="muted" font-size="11">ROBOTICS · HAPTICS / XR · LOCAL-FIRST SOFTWARE</text>
+    <text x="1146" y="326" class="muted" font-size="11" text-anchor="end">TOKYO / 2026</text>
+  </g>
+</svg>
