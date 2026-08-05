@@ -49,22 +49,15 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <p align="center"><sub>BROWSER-NATIVE TOOLS · CLICK AN ICON TO LAUNCH</sub></p>
 
 <p align="center">
-<a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="https://raw.githubusercontent.com/minoru-s/pdf-injection-detector/c8759bee71dca21fdd13bafbe78426c850a0b2cc/public/icon-192.png" width="84" height="84" alt="Launch PDFender"></a>&ensp;&ensp;
-<a href="https://minoru-s.github.io/mapping-plus/"><img src="https://raw.githubusercontent.com/minoru-s/mapping-plus/6aadb5e0671f8060e4f0d73613f972c8bddcd61d/favicon.svg" width="84" height="84" alt="Launch Mapping Plus"></a>&ensp;&ensp;
-<a href="https://minoru-saito-chuo.github.io/mocap/"><img src="https://raw.githubusercontent.com/minoru-s/mocap/864253297d0a3a7a4bf5bf30b37d8e78e982225b/icons/newicon-192.png" width="84" height="84" alt="Launch Mocap Plus"></a>&ensp;&ensp;
-<a href="https://minoru-s.github.io/yurutask/"><img src="https://raw.githubusercontent.com/minoru-s/yurutask/e70860678ae5fc0ef67fd5b783e712fcd688d163/icon/icon-192.png" width="84" height="84" alt="Launch YuruTask"></a>&ensp;&ensp;
-<a href="https://minoru-s.github.io/bib-generator"><img src="https://raw.githubusercontent.com/minoru-s/bib-generator/9fc26975b7f01a9fae02e0eabb698af8f9c6700d/public/pwa-192x192.png" width="84" height="84" alt="Launch BibGenerator"></a>&ensp;&ensp;
-<a href="https://minoru-s.github.io/portfolio/en/"><img src="https://raw.githubusercontent.com/minoru-s/portfolio/f53efcdd7689cc64a44bfe802b5bffcedc596c5c/portfolio-src/public/favicon.svg" width="84" height="84" alt="Open portfolio"></a>
+<a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="./assets/app-tile-pdfender-v1.png" width="108" alt="Launch PDFender"></a>&ensp;
+<a href="https://minoru-s.github.io/mapping-plus/"><img src="./assets/app-tile-mapping-v1.png" width="108" alt="Launch Mapping Plus"></a>&ensp;
+<a href="https://minoru-saito-chuo.github.io/mocap/"><img src="./assets/app-tile-mocap-v1.png" width="108" alt="Launch Mocap Plus"></a>&ensp;
+<a href="https://minoru-s.github.io/yurutask/"><img src="./assets/app-tile-yurutask-v1.png" width="108" alt="Launch YuruTask"></a>&ensp;
+<a href="https://minoru-s.github.io/bib-generator"><img src="./assets/app-tile-bibgenerator-v1.png" width="108" alt="Launch BibGenerator"></a>&ensp;
+<a href="https://minoru-s.github.io/portfolio/en/"><img src="./assets/app-tile-portfolio-v1.png" width="108" alt="Open portfolio"></a>
 </p>
 
-<p align="center">
-<a href="https://minoru-s.github.io/pdf-injection-detector/"><sub><strong>PDFender</strong></sub></a>&emsp;
-<a href="https://minoru-s.github.io/mapping-plus/"><sub><strong>Mapping Plus</strong></sub></a>&emsp;
-<a href="https://minoru-saito-chuo.github.io/mocap/"><sub><strong>Mocap Plus</strong></sub></a>&emsp;
-<a href="https://minoru-s.github.io/yurutask/"><sub><strong>YuruTask</strong></sub></a>&emsp;
-<a href="https://minoru-s.github.io/bib-generator"><sub><strong>BibGenerator</strong></sub></a>&emsp;
-<a href="https://minoru-s.github.io/portfolio/en/"><sub><strong>Portfolio</strong></sub></a>
-</p>
+<img src="./assets/section-flow-lab-v1.svg" width="100%" alt="">
 
 <a href="https://minoru-s.github.io/portfolio/en/research/"><img src="./assets/lab-focus-v1.svg" width="100%" alt="Research focus — haptics, spatial computing, and robotics"></a>
 
