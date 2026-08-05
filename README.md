@@ -79,4 +79,33 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <a href="https://minoru-s.github.io/portfolio/en/research/"><kbd>Research case studies ↗</kbd></a>
 </p>
 
+<a href="#background"><img src="./assets/section-flow-cyan-v1.svg" width="100%" alt=""></a>
+
+<h2 align="center">Background</h2>
+<p align="center"><sub>AFFILIATIONS · EXPERIENCE · TOOLBOX</sub></p>
+
+<h3 align="center">Affiliations</h3>
+
+<p align="center">
+<strong>2026.04 — Present</strong><br>
+Institute of Science Tokyo · Hasegawa Laboratory<br><br>
+<strong>2025.04 — 2026.03</strong><br>
+Chuo University · Kunii Laboratory<br><br>
+<strong>2022.04 — 2026.03</strong><br>
+Chuo University · Electrical, Electronic and Communication Engineering
+</p>
+
+<p align="center"><sub>Earlier work includes lunar exploration rovers and multi-robot systems for unknown environments.</sub></p>
+
+<h3 align="center">Toolbox</h3>
+
+<p align="center">
+<strong>Software</strong><br>
+<sub>Python · TypeScript / JavaScript · C / C# · MATLAB · R</sub><br><br>
+<strong>Prototyping</strong><br>
+<sub>Unity · Fusion 360 · Raspberry Pi · Arduino · 3D printing</sub><br><br>
+<strong>Research tools</strong><br>
+<sub>OptiTrack / Motive · Haptics · VR / AR</sub>
+</p>
+
 <p align="center"><sub>I build tools that make physical-world data easier to see, test, and use.</sub></p>
