@@ -84,28 +84,38 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <h2 align="center">Background</h2>
 <p align="center"><sub>AFFILIATIONS · EXPERIENCE · TOOLBOX</sub></p>
 
+<a href="#affiliations"><img src="./assets/background-orbit-v1.svg" width="100%" alt=""></a>
+
 <h3 align="center">Affiliations</h3>
 
 <p align="center">
-<strong>2026.04 — Present</strong><br>
-Institute of Science Tokyo · Hasegawa Laboratory<br><br>
-<strong>2025.04 — 2026.03</strong><br>
-Chuo University · Kunii Laboratory<br><br>
-<strong>2022.04 — 2026.03</strong><br>
-Chuo University · Electrical, Electronic and Communication Engineering
+<code>2026.04 — Present</code><br>
+<strong>Institute of Science Tokyo</strong><br>
+<sub>Hasegawa Laboratory</sub><br><br>
+<code>2025.04 — 2026.03</code><br>
+<strong>Chuo University</strong><br>
+<sub>Kunii Laboratory</sub><br><br>
+<code>2022.04 — 2026.03</code><br>
+<strong>Chuo University</strong><br>
+<sub>Electrical, Electronic and Communication Engineering</sub>
 </p>
 
-<p align="center"><sub>Earlier work includes lunar exploration rovers and multi-robot systems for unknown environments.</sub></p>
+<h3 align="center">Earlier work</h3>
+
+<p align="center">
+<strong>Lunar exploration rovers</strong><br>
+<sub>Multi-robot systems designed for unknown environments.</sub>
+</p>
 
 <h3 align="center">Toolbox</h3>
 
 <p align="center">
 <strong>Software</strong><br>
-<sub>Python · TypeScript / JavaScript · C / C# · MATLAB · R</sub><br><br>
+<code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>C / C#</code> <code>MATLAB</code> <code>R</code><br><br>
 <strong>Prototyping</strong><br>
-<sub>Unity · Fusion 360 · Raspberry Pi · Arduino · 3D printing</sub><br><br>
+<code>Unity</code> <code>Fusion 360</code> <code>Raspberry Pi</code> <code>Arduino</code> <code>3D printing</code><br><br>
 <strong>Research tools</strong><br>
-<sub>OptiTrack / Motive · Haptics · VR / AR</sub>
+<code>OptiTrack / Motive</code> <code>Haptics</code> <code>VR / AR</code>
 </p>
 
 <p align="center"><sub>I build tools that make physical-world data easier to see, test, and use.</sub></p>
