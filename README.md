@@ -1,4 +1,4 @@
-<img src="./assets/profile-hero-v3.svg" width="100%" alt="Abstract liquid-glass header">
+<a href="#saito-minoru"><img src="./assets/profile-hero-v3.svg" width="100%" alt="Abstract liquid-glass header"></a>
 
 <h1 align="center">Saito Minoru</h1>
 
@@ -13,7 +13,7 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <a href="https://github.com/minoru-s?tab=repositories"><img src="./assets/link-repositories-v2.svg" height="64" alt="Repositories — browse source"></a>
 </p>
 
-<img src="./assets/section-flow-cyan-v1.svg" width="100%" alt="">
+<a href="#recent-activity"><img src="./assets/section-flow-cyan-v1.svg" width="100%" alt=""></a>
 
 <h2 align="center">Recent activity</h2>
 <p align="center"><sub>PUBLIC REPOSITORIES · REFRESHED DAILY</sub></p>
@@ -43,7 +43,7 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 </table>
 <!-- recent:end -->
 
-<img src="./assets/section-flow-aurora-v1.svg" width="100%" alt="">
+<a href="#applications"><img src="./assets/section-flow-aurora-v1.svg" width="100%" alt=""></a>
 
 <h2 align="center">Applications</h2>
 <p align="center"><sub>BROWSER-NATIVE TOOLS · CLICK AN ICON TO LAUNCH</sub></p>
@@ -57,7 +57,7 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <a href="https://minoru-s.github.io/portfolio/en/"><img src="./assets/app-tile-portfolio-v2.png" width="108" alt="Open portfolio"></a>
 </p>
 
-<img src="./assets/section-flow-lab-v1.svg" width="100%" alt="">
+<a href="#in-the-lab"><img src="./assets/section-flow-lab-v1.svg" width="100%" alt=""></a>
 
 <h2 align="center">In the lab</h2>
 <p align="center"><sub>CURRENT RESEARCH LENSES</sub></p>
