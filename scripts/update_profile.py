@@ -20,7 +20,7 @@ END = "<!-- recent:end -->"
 DEPLOYED_APPS = {
     "pdf-injection-detector": {
         "url": "https://minoru-s.github.io/pdf-injection-detector/",
-        "icon": "https://raw.githubusercontent.com/minoru-s/pdf-injection-detector/8bcc734609b0b5f2994f3b6bec9e4f7bc9392e88/public/apple-touch-icon.png",
+        "icon": "https://raw.githubusercontent.com/minoru-s/pdf-injection-detector/c8759bee71dca21fdd13bafbe78426c850a0b2cc/public/apple-touch-icon.png",
         "label": "PDFender",
     },
     "portfolio": {
