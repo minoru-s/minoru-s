@@ -1,10 +1,14 @@
-<img src="./assets/profile-hero.svg" width="100%" alt="Saito Minoru — haptics, spatial computing, and research tools">
+<img src="./assets/profile-hero.svg?v=2" width="100%" alt="Abstract liquid-glass header">
+
+# Saito Minoru
+
+R&D engineer and master's student at the **Institute of Science Tokyo**  
+Haptics / VR / AR · Robotics · Browser-native research tools
 
 <p align="center">
-<sub>MASTER'S STUDENT @ INSTITUTE OF SCIENCE TOKYO</sub><br><br>
-<a href="https://minoru-s.github.io/portfolio/en/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/minoru-s">LinkedIn</a> ·
-<a href="https://github.com/minoru-s?tab=repositories">All repositories</a>
+<a href="https://minoru-s.github.io/portfolio/en/"><img src="./assets/link-portfolio.svg" height="58" alt="Portfolio — selected work"></a>
+<a href="https://www.linkedin.com/in/minoru-s"><img src="./assets/link-linkedin.svg" height="58" alt="LinkedIn — connect"></a>
+<a href="https://github.com/minoru-s?tab=repositories"><img src="./assets/link-repositories.svg" height="58" alt="Repositories — browse source"></a>
 </p>
 
 ## Recent activity
