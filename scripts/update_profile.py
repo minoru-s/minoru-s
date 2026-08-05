@@ -90,7 +90,10 @@ def render(repositories: list[dict]) -> str:
                 f'<a href="{app_url}"><img src="{icon_url}" width="48" '
                 f'height="48" alt="Open {label}"></a>'
             )
-            action = f'<br><a href="{app_url}"><code>OPEN APP ↗</code></a>'
+            action = (
+                f'<br><a href="{app_url}"><img src="./assets/status-live-v1.svg" '
+                f'height="24" alt="Launch live app"></a>'
+            )
         else:
             icon = "<sub>REPO</sub>"
             action = ""
