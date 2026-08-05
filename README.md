@@ -1,114 +1,81 @@
-<img src="./assets/profile-hero.svg" width="100%" alt="Minoru Saito — real-world signals to usable software">
-
-<div align="center">
-
 ### Saito Minoru
 
-`R&D ENGINEER / MASTER'S STUDENT`  
-Institute of Science Tokyo · Haptics / VR / AR
+R&D engineer and master's student at the **Institute of Science Tokyo**  
+Haptics / VR / AR · Robotics · Browser-native research tools
 
-[PORTFOLIO ↗](https://minoru-s.github.io/portfolio/)　·　[LINKEDIN ↗](https://www.linkedin.com/in/minoru-s)　·　[ALL REPOSITORIES ↗](https://github.com/minoru-s?tab=repositories)
+[Portfolio](https://minoru-s.github.io/portfolio/en/) · [LinkedIn](https://www.linkedin.com/in/minoru-s) · [All repositories](https://github.com/minoru-s?tab=repositories)
 
-</div>
-
-<br>
-
-## Selected systems
+---
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<sub>01 / DOCUMENT INTELLIGENCE</sub>
-
-### [PDFender](https://github.com/minoru-s/pdf-injection-detector)
-
-PDFの描画情報から、見えにくい文字や隠された文字を検出。ファイルを外部へ送らず、間接プロンプトインジェクションの手掛かりを可視化します。
-
-<kbd>LOCAL-FIRST</kbd> <kbd>TYPESCRIPT</kbd> <kbd>PDF.JS</kbd> <kbd>PWA</kbd>
-
-**[LAUNCH ↗](https://minoru-s.github.io/pdf-injection-detector/)**
-
+<td width="33%" valign="top">
+<sub>RESEARCHING</sub><br>
+<strong>Haptics × VR / AR</strong><br>
+<sub>Human–computer interaction</sub>
 </td>
-<td width="50%" valign="top">
-
-<sub>02 / SPATIAL DATA</sub>
-
-### [Mapping Plus](https://github.com/minoru-s/mapping-plus)
-
-GPSバックアップをヒートマップ化し、位置飛びを見つけて編集。本家互換ファイルまで、ブラウザ内だけで生成します。
-
-<kbd>LOCAL-FIRST</kbd> <kbd>LEAFLET</kbd> <kbd>SQL.JS</kbd> <kbd>GIS</kbd>
-
-**[LAUNCH ↗](https://minoru-s.github.io/mapping-plus/)**
-
+<td width="33%" valign="top">
+<sub>BUILDING</sub><br>
+<strong>Tools for physical-world data</strong><br>
+<sub>Local-first when possible</sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<sub>03 / PHYSICAL COMPUTING</sub>
-
-### [Mocap Plus](https://github.com/minoru-s/mocap)
-
-OptiTrack / Motiveの実験データを、3D再生・軌跡・速度・スリップ率・ヒートマップへ変換する解析ワークスペース。
-
-<kbd>MOTION CAPTURE</kbd> <kbd>THREE.JS</kbd> <kbd>DATA VIZ</kbd> <kbd>PWA</kbd>
-
-**[LAUNCH ↗](https://minoru-s.github.io/mocap/)**
-
-</td>
-<td width="50%" valign="top">
-
-<sub>04 / SPATIAL COMPUTING</sub>
-
-### [3DGS Lab](https://github.com/minoru-s/3dgs)
-
-動画や写真から3D Gaussian Splattingで空間を再構成。Apple Silicon上で学習し、ローカルビューアで探索できます。
-
-<kbd>3DGS</kbd> <kbd>APPLE SILICON</kbd> <kbd>COLMAP</kbd> <kbd>WEBGL</kbd>
-
-**[SOURCE ↗](https://github.com/minoru-s/3dgs)**
-
+<td width="33%" valign="top">
+<sub>BASED IN</sub><br>
+<strong>Tokyo, Japan</strong><br>
+<sub>Institute of Science Tokyo</sub>
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>＋ MORE TOOLS</strong></summary>
-<br>
+## Recent activity
 
-| Tool | What it does |
-|---|---|
-| [PDF Raster Exporter ↗](https://minoru-s.github.io/pdf-raster-exporter/) | PDFをページ画像から再構成し、見えないテキスト情報を除去 |
-| [Video Shrinker ↗](https://github.com/minoru-s/video-shrinker) | macOS上で動画をローカル圧縮 |
-| [YuruTask ↗](https://minoru-s.github.io/yurutask/) | あえてゆるく使えるタスク管理アプリ |
-| [Bib Generator ↗](https://minoru-s.github.io/bib-generator/) | 文献情報からLaTeX引用を生成 |
+<!-- recent:start -->
+| Recently updated | What it is | Last change |
+|---|---|---|
+| **[pdf-injection-detector](https://github.com/minoru-s/pdf-injection-detector)** | Local-first PDF hidden-text detector | — |
+| **[portfolio](https://github.com/minoru-s/portfolio)** | Research and project portfolio | — |
+| **[mapping-plus](https://github.com/minoru-s/mapping-plus)** | Browser-based GPS backup viewer and editor | — |
+| **[pdf-raster-exporter](https://github.com/minoru-s/pdf-raster-exporter)** | Local PDF-to-image exporter | — |
+<!-- recent:end -->
 
-</details>
+<sub>Refreshed automatically from public GitHub activity.</sub>
 
-<br>
+## Selected work
 
-<details>
-<summary><strong>＋ OPEN SYSTEM PROFILE</strong></summary>
-<br>
+<sub>01 — DOCUMENT INSPECTION</sub>
 
-| | |
-|---|---|
-| **Current** | 東京科学大学大学院 工学院 情報通信系 長谷川研究室 |
-| **Research** | Haptics · VR / AR · Human–computer interaction |
-| **Background** | Lunar exploration rovers · Multi-robot systems in unknown environments |
-| **Code** | Python · TypeScript / JavaScript · C · C# · MATLAB |
-| **Physical** | Unity · Raspberry Pi · Arduino · OptiTrack / Motive · Fusion 360 · 3D printing |
-| **Approach** | Prototype → Measure → Analyze → Iterate |
+### [PDFender](https://github.com/minoru-s/pdf-injection-detector)
 
-</details>
+A local-first web app that inspects how a PDF is actually drawn—not just what text it contains. It surfaces visually hidden text and other clues associated with indirect prompt injection, without uploading the document.
 
-<br>
+[Open the app](https://minoru-s.github.io/pdf-injection-detector/) · [Source](https://github.com/minoru-s/pdf-injection-detector)
 
-<div align="center">
+---
 
-<sub>LIVE ACTIVITY ↓</sub><br>
-Pinned repositories and GitHub's native contribution graph stay current automatically.
+<sub>02 — RESEARCH TOOLING</sub>
 
-</div>
+### Mocap Plus
+
+A browser tool for turning OptiTrack / Motive CSV data into analysis-ready plots. Built for my own lunar-robot research, then adopted by other lab members.
+
+**A typical analysis pass went from about 20 minutes to about 20 seconds.**
+
+[See the case study](https://minoru-s.github.io/portfolio/en/)
+
+---
+
+<sub>03 — SPATIAL DATA</sub>
+
+### [Mapping Plus](https://github.com/minoru-s/mapping-plus)
+
+A browser-native workspace for visualizing, editing, and exporting GPS backup data. The entire workflow stays on the user's device.
+
+[Open the app](https://minoru-s.github.io/mapping-plus/) · [Source](https://github.com/minoru-s/mapping-plus)
+
+## In the lab
+
+- **Haptics / VR / AR** — master's research in human–computer interaction.
+- **Lunar exploration robotics** — prototyping, simulation, field experiments, and motion-capture analysis.
+- **3DGS Lab** — small experiments around Gaussian splatting and spatial interfaces.
+
+<sub>I like tools that make messy physical-world data easier to see, test, and use.</sub>
