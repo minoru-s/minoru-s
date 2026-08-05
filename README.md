@@ -32,10 +32,10 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <!-- recent:start -->
 | Recently updated | What it is | Last change |
 |---|---|---|
-| **[pdf-injection-detector](https://github.com/minoru-s/pdf-injection-detector)** | Local-first PDF hidden-text detector | — |
-| **[portfolio](https://github.com/minoru-s/portfolio)** | Research and project portfolio | — |
-| **[mapping-plus](https://github.com/minoru-s/mapping-plus)** | Browser-based GPS backup viewer and editor | — |
-| **[pdf-raster-exporter](https://github.com/minoru-s/pdf-raster-exporter)** | Local PDF-to-image exporter | — |
+| **[pdf-injection-detector](https://github.com/minoru-s/pdf-injection-detector)** | PDF内のプロンプトインジェクション（見えにくく配置された文字や他のオブジェクトに隠された文字）を検出する静的Webアプリ． | 2026-08-04 |
+| **[portfolio](https://github.com/minoru-s/portfolio)** | ポートフォリオサイト | 2026-08-03 |
+| **[mapping-plus](https://github.com/minoru-s/mapping-plus)** | GPSロガーアプリ「マッピング」のデータの閲覧・編集ができる非公式アプリ． | 2026-08-01 |
+| **[pdf-raster-exporter](https://github.com/minoru-s/pdf-raster-exporter)** | PDFの全ページを画像化してPDFまたは画像形式で出力するWebアプリ．テキスト情報の抹消が目的． | 2026-07-30 |
 <!-- recent:end -->
 
 <sub>Refreshed automatically from public GitHub activity.</sub>
