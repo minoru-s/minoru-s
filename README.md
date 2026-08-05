@@ -49,17 +49,29 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <p align="center"><sub>BROWSER-NATIVE TOOLS · CLICK AN ICON TO LAUNCH</sub></p>
 
 <p align="center">
-<a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="./assets/app-tile-pdfender-v1.png" width="108" alt="Launch PDFender"></a>&ensp;
-<a href="https://minoru-s.github.io/mapping-plus/"><img src="./assets/app-tile-mapping-v1.png" width="108" alt="Launch Mapping Plus"></a>&ensp;
-<a href="https://minoru-saito-chuo.github.io/mocap/"><img src="./assets/app-tile-mocap-v1.png" width="108" alt="Launch Mocap Plus"></a>&ensp;
-<a href="https://minoru-s.github.io/yurutask/"><img src="./assets/app-tile-yurutask-v1.png" width="108" alt="Launch YuruTask"></a>&ensp;
-<a href="https://minoru-s.github.io/bib-generator"><img src="./assets/app-tile-bibgenerator-v1.png" width="108" alt="Launch BibGenerator"></a>&ensp;
-<a href="https://minoru-s.github.io/portfolio/en/"><img src="./assets/app-tile-portfolio-v1.png" width="108" alt="Open portfolio"></a>
+<a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="./assets/app-tile-pdfender-v2.png" width="108" alt="Launch PDFender"></a>&ensp;
+<a href="https://minoru-s.github.io/mapping-plus/"><img src="./assets/app-tile-mapping-v2.png" width="108" alt="Launch Mapping Plus"></a>&ensp;
+<a href="https://minoru-saito-chuo.github.io/mocap/"><img src="./assets/app-tile-mocap-v2.png" width="108" alt="Launch Mocap Plus"></a>&ensp;
+<a href="https://minoru-s.github.io/yurutask/"><img src="./assets/app-tile-yurutask-v2.png" width="108" alt="Launch YuruTask"></a>&ensp;
+<a href="https://minoru-s.github.io/bib-generator"><img src="./assets/app-tile-bibgenerator-v2.png" width="108" alt="Launch BibGenerator"></a>&ensp;
+<a href="https://minoru-s.github.io/portfolio/en/"><img src="./assets/app-tile-portfolio-v2.png" width="108" alt="Open portfolio"></a>
 </p>
 
 <img src="./assets/section-flow-lab-v1.svg" width="100%" alt="">
 
-<a href="https://minoru-s.github.io/portfolio/en/research/"><img src="./assets/lab-focus-v1.svg" width="100%" alt="Research focus — haptics, spatial computing, and robotics"></a>
+<h2 align="center">In the lab</h2>
+<p align="center"><sub>CURRENT RESEARCH LENSES</sub></p>
+
+<a href="https://minoru-s.github.io/portfolio/en/research/"><img src="./assets/lab-symbols-v1.svg" width="100%" alt=""></a>
+
+<p align="center">
+<a href="https://minoru-s.github.io/portfolio/en/research/"><strong>Haptics / VR / AR</strong></a><br>
+<sub>Human–computer interaction through touch, space, and perception.</sub><br><br>
+<a href="https://minoru-s.github.io/portfolio/en/research/"><strong>Spatial computing</strong></a><br>
+<sub>Small experiments around Gaussian splatting and spatial interfaces.</sub><br><br>
+<a href="https://minoru-s.github.io/portfolio/en/research/"><strong>Robotics</strong></a><br>
+<sub>Prototyping, simulation, field tests, and motion-capture analysis.</sub>
+</p>
 
 <p align="center">
 <a href="https://github.com/minoru-s/mocap"><kbd>Mocap Plus · source ↗</kbd></a>&nbsp;
