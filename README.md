@@ -13,75 +13,57 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <a href="https://github.com/minoru-s?tab=repositories"><img src="./assets/link-repositories-v2.svg" height="64" alt="Repositories — browse source"></a>
 </p>
 
-<h2 align="center">Recent activity</h2>
-
-<p align="center"><sub>LIVE FROM PUBLIC REPOSITORIES · REFRESHED DAILY</sub></p>
+<img src="./assets/section-recent-v2.svg" width="100%" alt="Recent activity — public repositories synced daily">
 
 <!-- recent:start -->
 <table>
 <tr>
 <td width="72" align="center"><a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="https://raw.githubusercontent.com/minoru-s/pdf-injection-detector/8bcc734609b0b5f2994f3b6bec9e4f7bc9392e88/public/apple-touch-icon.png" width="48" height="48" alt="Open PDFender"></a></td>
-<td><strong><a href="https://github.com/minoru-s/pdf-injection-detector">pdf-injection-detector</a></strong><br><sub>PDF内のプロンプトインジェクション（見えにくく配置された文字や他のオブジェクトに隠された文字）を検出する静的Webアプリ．</sub><br><a href="https://minoru-s.github.io/pdf-injection-detector/"><code>OPEN APP ↗</code></a></td>
+<td><strong><a href="https://github.com/minoru-s/pdf-injection-detector">pdf-injection-detector</a></strong><br><sub>PDF内のプロンプトインジェクション（見えにくく配置された文字や他のオブジェクトに隠された文字）を検出する静的Webアプリ．</sub><br><a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="./assets/status-live-v1.svg" height="24" alt="Launch live app"></a></td>
 <td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-04</code></td>
 </tr>
 <tr>
 <td width="72" align="center"><a href="https://minoru-s.github.io/portfolio/en/"><img src="https://raw.githubusercontent.com/minoru-s/portfolio/f53efcdd7689cc64a44bfe802b5bffcedc596c5c/portfolio-src/public/favicon.svg" width="48" height="48" alt="Open portfolio"></a></td>
-<td><strong><a href="https://github.com/minoru-s/portfolio">portfolio</a></strong><br><sub>ポートフォリオサイト</sub><br><a href="https://minoru-s.github.io/portfolio/en/"><code>OPEN APP ↗</code></a></td>
+<td><strong><a href="https://github.com/minoru-s/portfolio">portfolio</a></strong><br><sub>ポートフォリオサイト</sub><br><a href="https://minoru-s.github.io/portfolio/en/"><img src="./assets/status-live-v1.svg" height="24" alt="Launch live app"></a></td>
 <td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-03</code></td>
 </tr>
 <tr>
 <td width="72" align="center"><a href="https://minoru-s.github.io/mapping-plus/"><img src="https://raw.githubusercontent.com/minoru-s/mapping-plus/6aadb5e0671f8060e4f0d73613f972c8bddcd61d/favicon.svg" width="48" height="48" alt="Open Mapping Plus"></a></td>
-<td><strong><a href="https://github.com/minoru-s/mapping-plus">mapping-plus</a></strong><br><sub>GPSロガーアプリ「マッピング」のデータの閲覧・編集ができる非公式アプリ．</sub><br><a href="https://minoru-s.github.io/mapping-plus/"><code>OPEN APP ↗</code></a></td>
+<td><strong><a href="https://github.com/minoru-s/mapping-plus">mapping-plus</a></strong><br><sub>GPSロガーアプリ「マッピング」のデータの閲覧・編集ができる非公式アプリ．</sub><br><a href="https://minoru-s.github.io/mapping-plus/"><img src="./assets/status-live-v1.svg" height="24" alt="Launch live app"></a></td>
 <td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-01</code></td>
 </tr>
 <tr>
 <td width="72" align="center"><a href="https://minoru-s.github.io/pdf-raster-exporter/"><img src="https://raw.githubusercontent.com/minoru-s/pdf-raster-exporter/f979de41eaba53a4e78ba3af6ed8546a948a13d9/public/apple-touch-icon.png" width="48" height="48" alt="Open PDF Raster Exporter"></a></td>
-<td><strong><a href="https://github.com/minoru-s/pdf-raster-exporter">pdf-raster-exporter</a></strong><br><sub>PDFの全ページを画像化してPDFまたは画像形式で出力するWebアプリ．テキスト情報の抹消が目的．</sub><br><a href="https://minoru-s.github.io/pdf-raster-exporter/"><code>OPEN APP ↗</code></a></td>
+<td><strong><a href="https://github.com/minoru-s/pdf-raster-exporter">pdf-raster-exporter</a></strong><br><sub>PDFの全ページを画像化してPDFまたは画像形式で出力するWebアプリ．テキスト情報の抹消が目的．</sub><br><a href="https://minoru-s.github.io/pdf-raster-exporter/"><img src="./assets/status-live-v1.svg" height="24" alt="Launch live app"></a></td>
 <td width="105" align="right"><sub>UPDATED</sub><br><code>2026-07-30</code></td>
 </tr>
 </table>
 <!-- recent:end -->
 
-<h2 align="center">Selected work</h2>
+<img src="./assets/section-apps-v1.svg" width="100%" alt="Applications — browser-native tools">
 
-<p align="center"><sub>TOOLS FOR SEEING, TESTING, AND SHAPING REAL-WORLD DATA</sub></p>
+<p align="center">
+<a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="https://raw.githubusercontent.com/minoru-s/pdf-injection-detector/8bcc734609b0b5f2994f3b6bec9e4f7bc9392e88/public/apple-touch-icon.png" width="112" height="112" alt="Launch PDFender"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://minoru-s.github.io/mapping-plus/"><img src="https://raw.githubusercontent.com/minoru-s/mapping-plus/6aadb5e0671f8060e4f0d73613f972c8bddcd61d/favicon.svg" width="112" height="112" alt="Launch Mapping Plus"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://minoru-saito-chuo.github.io/mocap/"><img src="https://raw.githubusercontent.com/minoru-s/mocap/864253297d0a3a7a4bf5bf30b37d8e78e982225b/icons/newicon-192.png" width="112" height="112" alt="Launch Mocap Plus"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://minoru-s.github.io/portfolio/en/"><img src="https://raw.githubusercontent.com/minoru-s/portfolio/f53efcdd7689cc64a44bfe802b5bffcedc596c5c/portfolio-src/public/favicon.svg" width="112" height="112" alt="Open portfolio"></a>
+</p>
 
-<sub>01 — DOCUMENT INSPECTION</sub>
+<img src="./assets/dock-shelf-v1.svg" width="100%" alt="">
 
-### [PDFender](https://github.com/minoru-s/pdf-injection-detector)
+<p align="center">
+<a href="https://github.com/minoru-s/pdf-injection-detector"><kbd>PDFender · source ↗</kbd></a>&nbsp;
+<a href="https://github.com/minoru-s/mapping-plus"><kbd>Mapping Plus · source ↗</kbd></a>&nbsp;
+<a href="https://github.com/minoru-s/mocap"><kbd>Mocap Plus · source ↗</kbd></a>&nbsp;
+<a href="https://github.com/minoru-s/portfolio"><kbd>Portfolio · source ↗</kbd></a>
+</p>
 
-A local-first web app that inspects how a PDF is actually drawn—not just what text it contains. It surfaces visually hidden text and other clues associated with indirect prompt injection, without uploading the document.
+<a href="https://minoru-s.github.io/portfolio/en/research/"><img src="./assets/lab-focus-v1.svg" width="100%" alt="Research focus — haptics, spatial computing, and robotics"></a>
 
-[<code>OPEN APP ↗</code>](https://minoru-s.github.io/pdf-injection-detector/) · [<code>VIEW SOURCE</code>](https://github.com/minoru-s/pdf-injection-detector)
+<p align="center">
+<a href="https://github.com/minoru-s/mocap"><kbd>Mocap Plus · source ↗</kbd></a>&nbsp;
+<a href="https://github.com/minoru-s/3dgs"><kbd>3DGS Lab · experiments ↗</kbd></a>&nbsp;
+<a href="https://minoru-s.github.io/portfolio/en/research/"><kbd>Research case studies ↗</kbd></a>
+</p>
 
----
-
-<sub>02 — RESEARCH TOOLING</sub>
-
-### [Mocap Plus](https://github.com/minoru-s/mocap)
-
-A browser tool for turning OptiTrack / Motive CSV data into analysis-ready plots. Built for my own lunar-robot research, then adopted by other lab members.
-
-**A typical analysis pass went from about 20 minutes to about 20 seconds.**
-
-[<code>CASE STUDY ↗</code>](https://minoru-s.github.io/portfolio/en/) · [<code>VIEW SOURCE</code>](https://github.com/minoru-s/mocap)
-
----
-
-<sub>03 — SPATIAL DATA</sub>
-
-### [Mapping Plus](https://github.com/minoru-s/mapping-plus)
-
-A browser-native workspace for visualizing, editing, and exporting GPS backup data. The entire workflow stays on the user's device.
-
-[<code>OPEN APP ↗</code>](https://minoru-s.github.io/mapping-plus/) · [<code>VIEW SOURCE</code>](https://github.com/minoru-s/mapping-plus)
-
-<h2 align="center">In the lab</h2>
-
-<p align="center"><sub>PHYSICAL INTERACTION · SPATIAL COMPUTING · ROBOTICS</sub></p>
-
-- **Haptics / VR / AR** — master's research in human–computer interaction.
-- **Lunar exploration robotics** — prototyping, simulation, field experiments, and motion-capture analysis.
-- **[3DGS Lab](https://github.com/minoru-s/3dgs)** — small experiments around Gaussian splatting and spatial interfaces.
-
-<sub>I like tools that make messy physical-world data easier to see, test, and use.</sub>
+<p align="center"><sub>I build tools that make physical-world data easier to see, test, and use.</sub></p>
