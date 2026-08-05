@@ -1,31 +1,11 @@
-### Saito Minoru
+<img src="./assets/profile-hero.svg" width="100%" alt="Saito Minoru — haptics, spatial computing, and research tools">
 
-R&D engineer and master's student at the **Institute of Science Tokyo**  
-Haptics / VR / AR · Robotics · Browser-native research tools
-
-[Portfolio](https://minoru-s.github.io/portfolio/en/) · [LinkedIn](https://www.linkedin.com/in/minoru-s) · [All repositories](https://github.com/minoru-s?tab=repositories)
-
----
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<sub>RESEARCHING</sub><br>
-<strong>Haptics × VR / AR</strong><br>
-<sub>Human–computer interaction</sub>
-</td>
-<td width="33%" valign="top">
-<sub>BUILDING</sub><br>
-<strong>Tools for physical-world data</strong><br>
-<sub>Local-first when possible</sub>
-</td>
-<td width="33%" valign="top">
-<sub>BASED IN</sub><br>
-<strong>Tokyo, Japan</strong><br>
-<sub>Institute of Science Tokyo</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+<sub>MASTER'S STUDENT @ INSTITUTE OF SCIENCE TOKYO</sub><br><br>
+<a href="https://minoru-s.github.io/portfolio/en/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/minoru-s">LinkedIn</a> ·
+<a href="https://github.com/minoru-s?tab=repositories">All repositories</a>
+</p>
 
 ## Recent activity
 
@@ -54,13 +34,13 @@ A local-first web app that inspects how a PDF is actually drawn—not just what 
 
 <sub>02 — RESEARCH TOOLING</sub>
 
-### Mocap Plus
+### [Mocap Plus](https://github.com/minoru-s/mocap)
 
 A browser tool for turning OptiTrack / Motive CSV data into analysis-ready plots. Built for my own lunar-robot research, then adopted by other lab members.
 
 **A typical analysis pass went from about 20 minutes to about 20 seconds.**
 
-[See the case study](https://minoru-s.github.io/portfolio/en/)
+[See the case study](https://minoru-s.github.io/portfolio/en/) · [Source](https://github.com/minoru-s/mocap)
 
 ---
 
@@ -76,6 +56,6 @@ A browser-native workspace for visualizing, editing, and exporting GPS backup da
 
 - **Haptics / VR / AR** — master's research in human–computer interaction.
 - **Lunar exploration robotics** — prototyping, simulation, field experiments, and motion-capture analysis.
-- **3DGS Lab** — small experiments around Gaussian splatting and spatial interfaces.
+- **[3DGS Lab](https://github.com/minoru-s/3dgs)** — small experiments around Gaussian splatting and spatial interfaces.
 
 <sub>I like tools that make messy physical-world data easier to see, test, and use.</sub>
