@@ -13,7 +13,10 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <a href="https://github.com/minoru-s?tab=repositories"><img src="./assets/link-repositories-v2.svg" height="64" alt="Repositories — browse source"></a>
 </p>
 
-<img src="./assets/section-recent-v2.svg" width="100%" alt="Recent activity — public repositories synced daily">
+<img src="./assets/section-flow-cyan-v1.svg" width="100%" alt="">
+
+<h2 align="center">Recent activity</h2>
+<p align="center"><sub>PUBLIC REPOSITORIES · REFRESHED DAILY</sub></p>
 
 <!-- recent:start -->
 <table>
@@ -40,13 +43,18 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 </table>
 <!-- recent:end -->
 
-<img src="./assets/section-apps-v1.svg" width="100%" alt="Applications — browser-native tools">
+<img src="./assets/section-flow-aurora-v1.svg" width="100%" alt="">
+
+<h2 align="center">Applications</h2>
+<p align="center"><sub>BROWSER-NATIVE TOOLS · CLICK AN ICON TO LAUNCH</sub></p>
 
 <p align="center">
-<a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="https://raw.githubusercontent.com/minoru-s/pdf-injection-detector/8bcc734609b0b5f2994f3b6bec9e4f7bc9392e88/public/apple-touch-icon.png" width="112" height="112" alt="Launch PDFender"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://minoru-s.github.io/mapping-plus/"><img src="https://raw.githubusercontent.com/minoru-s/mapping-plus/6aadb5e0671f8060e4f0d73613f972c8bddcd61d/favicon.svg" width="112" height="112" alt="Launch Mapping Plus"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://minoru-saito-chuo.github.io/mocap/"><img src="https://raw.githubusercontent.com/minoru-s/mocap/864253297d0a3a7a4bf5bf30b37d8e78e982225b/icons/newicon-192.png" width="112" height="112" alt="Launch Mocap Plus"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://minoru-s.github.io/portfolio/en/"><img src="https://raw.githubusercontent.com/minoru-s/portfolio/f53efcdd7689cc64a44bfe802b5bffcedc596c5c/portfolio-src/public/favicon.svg" width="112" height="112" alt="Open portfolio"></a>
+<a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="https://raw.githubusercontent.com/minoru-s/pdf-injection-detector/8bcc734609b0b5f2994f3b6bec9e4f7bc9392e88/public/apple-touch-icon.png" width="84" height="84" alt="Launch PDFender"></a>&nbsp;&nbsp;
+<a href="https://minoru-s.github.io/mapping-plus/"><img src="https://raw.githubusercontent.com/minoru-s/mapping-plus/6aadb5e0671f8060e4f0d73613f972c8bddcd61d/favicon.svg" width="84" height="84" alt="Launch Mapping Plus"></a>&nbsp;&nbsp;
+<a href="https://minoru-saito-chuo.github.io/mocap/"><img src="https://raw.githubusercontent.com/minoru-s/mocap/864253297d0a3a7a4bf5bf30b37d8e78e982225b/icons/newicon-192.png" width="84" height="84" alt="Launch Mocap Plus"></a>&nbsp;&nbsp;
+<a href="https://minoru-s.github.io/yurutask/"><img src="https://raw.githubusercontent.com/minoru-s/yurutask/e70860678ae5fc0ef67fd5b783e712fcd688d163/icon/icon-192.png" width="84" height="84" alt="Launch YuruTask"></a>&nbsp;&nbsp;
+<a href="https://minoru-s.github.io/bib-generator"><img src="https://raw.githubusercontent.com/minoru-s/bib-generator/9fc26975b7f01a9fae02e0eabb698af8f9c6700d/public/pwa-192x192.png" width="84" height="84" alt="Launch BibGenerator"></a>&nbsp;&nbsp;
+<a href="https://minoru-s.github.io/portfolio/en/"><img src="https://raw.githubusercontent.com/minoru-s/portfolio/f53efcdd7689cc64a44bfe802b5bffcedc596c5c/portfolio-src/public/favicon.svg" width="84" height="84" alt="Open portfolio"></a>
 </p>
 
 <img src="./assets/dock-shelf-v1.svg" width="100%" alt="">
@@ -55,6 +63,8 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <a href="https://github.com/minoru-s/pdf-injection-detector"><kbd>PDFender · source ↗</kbd></a>&nbsp;
 <a href="https://github.com/minoru-s/mapping-plus"><kbd>Mapping Plus · source ↗</kbd></a>&nbsp;
 <a href="https://github.com/minoru-s/mocap"><kbd>Mocap Plus · source ↗</kbd></a>&nbsp;
+<a href="https://github.com/minoru-s/yurutask"><kbd>YuruTask · source ↗</kbd></a>&nbsp;
+<a href="https://github.com/minoru-s/bib-generator"><kbd>BibGenerator · source ↗</kbd></a>&nbsp;
 <a href="https://github.com/minoru-s/portfolio"><kbd>Portfolio · source ↗</kbd></a>
 </p>
 
