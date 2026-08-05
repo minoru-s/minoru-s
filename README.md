@@ -1,4 +1,4 @@
-<img src="./assets/profile-hero.svg?v=2" width="100%" alt="Abstract liquid-glass header">
+<img src="./assets/profile-hero-v3.svg" width="100%" alt="Abstract liquid-glass header">
 
 # Saito Minoru
 
@@ -6,9 +6,9 @@ R&D engineer and master's student at the **Institute of Science Tokyo**
 Haptics / VR / AR · Robotics · Browser-native research tools
 
 <p align="center">
-<a href="https://minoru-s.github.io/portfolio/en/"><img src="./assets/link-portfolio.svg" height="58" alt="Portfolio — selected work"></a>
-<a href="https://www.linkedin.com/in/minoru-s"><img src="./assets/link-linkedin.svg" height="58" alt="LinkedIn — connect"></a>
-<a href="https://github.com/minoru-s?tab=repositories"><img src="./assets/link-repositories.svg" height="58" alt="Repositories — browse source"></a>
+<a href="https://minoru-s.github.io/portfolio/en/"><img src="./assets/link-portfolio-v2.svg" height="64" alt="Portfolio — selected work"></a>
+<a href="https://www.linkedin.com/in/minoru-s"><img src="./assets/link-linkedin-v2.svg" height="64" alt="LinkedIn — connect"></a>
+<a href="https://github.com/minoru-s?tab=repositories"><img src="./assets/link-repositories-v2.svg" height="64" alt="Repositories — browse source"></a>
 </p>
 
 ## Recent activity
