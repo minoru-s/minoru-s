@@ -84,38 +84,42 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <h2 align="center">Background</h2>
 <p align="center"><sub>AFFILIATIONS · EXPERIENCE · TOOLBOX</sub></p>
 
-<a href="#affiliations"><img src="./assets/background-orbit-v1.svg" width="100%" alt=""></a>
+<a href="#trajectory"><img src="./assets/background-trajectory-v2.svg" width="100%" alt=""></a>
 
-<h3 align="center">Affiliations</h3>
+<h3 align="center">Trajectory</h3>
+<p align="center"><sub>FROM PHYSICAL SYSTEMS TO HUMAN–COMPUTER INTERACTION</sub></p>
 
-<p align="center">
-<code>2026.04 — Present</code><br>
-<strong>Institute of Science Tokyo</strong><br>
-<sub>Hasegawa Laboratory</sub><br><br>
-<code>2025.04 — 2026.03</code><br>
-<strong>Chuo University</strong><br>
-<sub>Kunii Laboratory</sub><br><br>
-<code>2022.04 — 2026.03</code><br>
-<strong>Chuo University</strong><br>
-<sub>Electrical, Electronic and Communication Engineering</sub>
-</p>
+<table width="100%">
+<tr>
+<td width="128" align="center"><code>NOW</code><br><sub>2026.04 —</sub></td>
+<td width="872"><strong>Institute of Science Tokyo</strong><br><sub>Master's student · Hasegawa Laboratory<br>Haptics, VR / AR, and interfaces that connect perception with physical systems.</sub></td>
+</tr>
+<tr>
+<td width="128" align="center"><code>LAB</code><br><sub>2025.04 — 2026.03</sub></td>
+<td width="872"><strong>Chuo University · Kunii Laboratory</strong><br><sub>Robotics research developed through prototyping, simulation, and motion-capture analysis.</sub></td>
+</tr>
+<tr>
+<td width="128" align="center"><code>FOUNDATION</code><br><sub>2022.04 — 2026.03</sub></td>
+<td width="872"><strong>Electrical, Electronic and Communication Engineering</strong><br><sub>Lunar exploration rovers and multi-robot systems for unknown environments.</sub></td>
+</tr>
+</table>
 
-<h3 align="center">Earlier work</h3>
+<h3 align="center">Working set</h3>
+<p align="center"><sub>THE SAME LOOP, ACROSS SOFTWARE AND PHYSICAL PROTOTYPES</sub></p>
 
-<p align="center">
-<strong>Lunar exploration rovers</strong><br>
-<sub>Multi-robot systems designed for unknown environments.</sub>
-</p>
+<table width="100%">
+<tr>
+<td width="116" align="center"><strong>01</strong><br><sub>BUILD</sub></td>
+<td width="884"><code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>C / C#</code> <code>MATLAB</code> <code>R</code><br><sub>Research software and browser-native tools.</sub></td>
+</tr>
+<tr>
+<td width="116" align="center"><strong>02</strong><br><sub>PROTOTYPE</sub></td>
+<td width="884"><code>Unity</code> <code>Fusion 360</code> <code>Raspberry Pi</code> <code>Arduino</code> <code>3D printing</code><br><sub>Fast movement from an interaction idea to something testable.</sub></td>
+</tr>
+<tr>
+<td width="116" align="center"><strong>03</strong><br><sub>MEASURE</sub></td>
+<td width="884"><code>OptiTrack / Motive</code> <code>Haptics</code> <code>VR / AR</code><br><sub>Close the loop with motion, perception, and field observations.</sub></td>
+</tr>
+</table>
 
-<h3 align="center">Toolbox</h3>
-
-<p align="center">
-<strong>Software</strong><br>
-<code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>C / C#</code> <code>MATLAB</code> <code>R</code><br><br>
-<strong>Prototyping</strong><br>
-<code>Unity</code> <code>Fusion 360</code> <code>Raspberry Pi</code> <code>Arduino</code> <code>3D printing</code><br><br>
-<strong>Research tools</strong><br>
-<code>OptiTrack / Motive</code> <code>Haptics</code> <code>VR / AR</code>
-</p>
-
-<p align="center"><sub>I build tools that make physical-world data easier to see, test, and use.</sub></p>
+<p align="center"><code>OBSERVE → PROTOTYPE → TEST → SHIP</code><br><sub>I build tools that make physical-world data easier to see, test, and use.</sub></p>
