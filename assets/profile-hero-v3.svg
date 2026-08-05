@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract liquid-glass header</title>
+  <desc id="desc">A decorative field of softly refracted cyan, violet, and pink light that fades into the page below.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5fbff"/><stop offset=".48" stop-color="#eef2ff"/><stop offset="1" stop-color="#fff4fa"/></linearGradient>
+    <radialGradient id="cyan"><stop stop-color="#45d7ff" stop-opacity=".78"/><stop offset="1" stop-color="#45d7ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="violet"><stop stop-color="#8475ff" stop-opacity=".7"/><stop offset="1" stop-color="#8475ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="pink"><stop stop-color="#ff77b6" stop-opacity=".56"/><stop offset="1" stop-color="#ff77b6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#42d8ff"/><stop offset=".52" stop-color="#7b76ff"/><stop offset="1" stop-color="#ff78b8"/></linearGradient>
+    <linearGradient id="ribbon" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".6"/><stop offset=".55" stop-color="#fff" stop-opacity=".2"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="fadePaint" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset=".58" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+    <mask id="fade"><rect width="1200" height="180" fill="url(#fadePaint)"/></mask>
+    <filter id="blur" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="30"/></filter>
+    <filter id="soft" x="-20%" y="-80%" width="140%" height="260%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#405784" flood-opacity=".1"/></filter>
+    <clipPath id="clip"><path d="M8 34A26 26 0 0 1 34 8h1132a26 26 0 0 1 26 26v146H8Z"/></clipPath>
+    <style>
+      .canvas{fill:url(#canvas)}.fine{stroke-opacity:.55}.signal{animation:signal 7s ease-in-out infinite}.driftA{animation:driftA 9s ease-in-out infinite}.driftB{animation:driftB 11s ease-in-out infinite}
+      @media(prefers-color-scheme:dark){.canvas{fill:#0c1221}.fine{stroke-opacity:.4}.glass{opacity:.46}}
+      @media(prefers-reduced-motion:reduce){.signal,.driftA,.driftB{animation:none}}
+      @keyframes signal{0%,100%{opacity:.3;transform:translateX(-8px)}50%{opacity:.9;transform:translateX(8px)}}@keyframes driftA{0%,100%{transform:translate(0,0)}50%{transform:translate(20px,-6px)}}@keyframes driftB{0%,100%{transform:translate(0,0)}50%{transform:translate(-17px,7px)}}
+    </style>
+  </defs>
+  <g mask="url(#fade)" clip-path="url(#clip)">
+    <rect class="canvas" x="8" y="8" width="1184" height="172" rx="26"/>
+    <ellipse class="driftA" cx="100" cy="8" rx="245" ry="125" fill="url(#cyan)" filter="url(#blur)"/>
+    <ellipse class="driftB" cx="1045" cy="5" rx="275" ry="130" fill="url(#violet)" filter="url(#blur)"/>
+    <ellipse class="driftA" cx="770" cy="180" rx="285" ry="105" fill="url(#pink)" filter="url(#blur)"/>
+    <path class="glass" d="M-70 92C125 24 278 156 478 89S805 28 1270 105L1270 158C810 89 672 160 486 141S144 72-70 147Z" fill="url(#ribbon)" stroke="#fff" stroke-opacity=".64" filter="url(#soft)"/>
+    <path class="fine" d="M-45 111C139 46 282 163 483 99S820 49 1255 119" fill="none" stroke="url(#spectrum)" stroke-width="2.1"/>
+    <path class="signal" d="M-45 117C139 52 282 169 483 105S820 55 1255 125" fill="none" stroke="#fff" stroke-width="1" stroke-opacity=".88"/>
+    <path d="M28 49C214 91 310 22 484 60S795 119 1175 50" fill="none" stroke="#fff" stroke-width="1" stroke-opacity=".34"/>
+    <g fill="#fff"><circle cx="168" cy="72" r="3" opacity=".75"/><circle cx="412" cy="82" r="2" opacity=".52"/><circle cx="738" cy="91" r="3" opacity=".66"/><circle cx="1014" cy="70" r="2" opacity=".55"/></g>
+  </g>
+  <path d="M8 96V34A26 26 0 0 1 34 8h1132a26 26 0 0 1 26 26v62" fill="none" stroke="#cbd7eb" stroke-opacity=".62"/>
+</svg>
