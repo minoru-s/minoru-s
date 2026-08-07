@@ -23,7 +23,7 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <tr>
 <td width="72" align="center"><a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="https://raw.githubusercontent.com/minoru-s/pdf-injection-detector/c8759bee71dca21fdd13bafbe78426c850a0b2cc/public/icon-192.png" width="48" height="48" alt="Open PDFender"></a></td>
 <td><strong><a href="https://github.com/minoru-s/pdf-injection-detector">pdf-injection-detector</a></strong><br><sub>PDF内のプロンプトインジェクション（見えにくく配置された文字や他のオブジェクトに隠された文字）を検出する静的Webアプリ．</sub><br><a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="./assets/status-live-v1.svg" height="24" alt="Launch live app"></a></td>
-<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-05</code></td>
+<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-06</code></td>
 </tr>
 <tr>
 <td width="72" align="center"><a href="https://minoru-s.github.io/portfolio/en/"><img src="https://raw.githubusercontent.com/minoru-s/portfolio/f53efcdd7689cc64a44bfe802b5bffcedc596c5c/portfolio-src/public/favicon.svg" width="48" height="48" alt="Open portfolio"></a></td>
