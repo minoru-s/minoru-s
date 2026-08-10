@@ -23,7 +23,7 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <tr>
 <td width="72" align="center"><a href="https://minoru-s.github.io/pdf-raster-exporter/"><img src="https://raw.githubusercontent.com/minoru-s/pdf-raster-exporter/f979de41eaba53a4e78ba3af6ed8546a948a13d9/public/apple-touch-icon.png" width="48" height="48" alt="Open PDF Raster Exporter"></a></td>
 <td><strong><a href="https://github.com/minoru-s/pdf-raster-exporter">pdf-raster-exporter</a></strong><br><sub>A web application that converts all pages of a PDF into images and outputs them in PDF or image format. The purpose is to erase text information. ／PDFの全ページを画像化してPDFまたは画像形式で出力するWebアプリ．テキスト情報の抹消が目的．</sub><br><a href="https://minoru-s.github.io/pdf-raster-exporter/"><img src="./assets/status-live-v1.svg" height="24" alt="Launch live app"></a></td>
-<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-08</code></td>
+<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-09</code></td>
 </tr>
 <tr>
 <td width="72" align="center"><a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="https://raw.githubusercontent.com/minoru-s/pdf-injection-detector/c8759bee71dca21fdd13bafbe78426c850a0b2cc/public/icon-192.png" width="48" height="48" alt="Open PDFender"></a></td>
