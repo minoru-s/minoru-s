@@ -22,6 +22,11 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <table>
 <tr>
 <td width="72" align="center"><sub>REPO</sub></td>
+<td><strong><a href="https://github.com/minoru-s/mp3-title-editor-macos">mp3-title-editor-macos</a></strong><br><sub>ファイル名や音声を変えず、MP3内部のタイトル情報（ID3タグ）だけを書き換える小さなMacアプリです。</sub></td>
+<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-28</code></td>
+</tr>
+<tr>
+<td width="72" align="center"><sub>REPO</sub></td>
 <td><strong><a href="https://github.com/minoru-s/3dgs">3dgs</a></strong><br><sub>3D Gaussian SplattingをMac OS上で動かすためのツールキット</sub></td>
 <td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-16</code></td>
 </tr>
@@ -34,11 +39,6 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <td width="72" align="center"><sub>REPO</sub></td>
 <td><strong><a href="https://github.com/minoru-s/curved-scan">curved-scan</a></strong><br><sub>Public project</sub></td>
 <td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-12</code></td>
-</tr>
-<tr>
-<td width="72" align="center"><a href="https://minoru-s.github.io/mapping-plus/"><img src="https://raw.githubusercontent.com/minoru-s/mapping-plus/6aadb5e0671f8060e4f0d73613f972c8bddcd61d/favicon.svg" width="48" height="48" alt="Open Mapping Plus"></a></td>
-<td><strong><a href="https://github.com/minoru-s/mapping-plus">mapping-plus</a></strong><br><sub>GPSロガーアプリ「マッピング」のデータの閲覧・編集ができる非公式アプリ．</sub><br><a href="https://minoru-s.github.io/mapping-plus/"><img src="./assets/status-live-v1.svg" height="24" alt="Launch live app"></a></td>
-<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-11</code></td>
 </tr>
 </table>
 <!-- recent:end -->
