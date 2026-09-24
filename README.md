@@ -22,13 +22,13 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <table>
 <tr>
 <td width="72" align="center"><sub>REPO</sub></td>
-<td><strong><a href="https://github.com/minoru-s/mp3-title-editor-macos">mp3-title-editor-macos</a></strong><br><sub>ファイル名や音声を変えず、MP3内部のタイトル情報（ID3タグ）だけを書き換える小さなMacアプリです。</sub></td>
-<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-28</code></td>
+<td><strong><a href="https://github.com/minoru-s/3dgs">3dgs</a></strong><br><sub>3D Gaussian SplattingをMac OS上で動かすためのツールキット</sub></td>
+<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-09-23</code></td>
 </tr>
 <tr>
 <td width="72" align="center"><sub>REPO</sub></td>
-<td><strong><a href="https://github.com/minoru-s/3dgs">3dgs</a></strong><br><sub>3D Gaussian SplattingをMac OS上で動かすためのツールキット</sub></td>
-<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-16</code></td>
+<td><strong><a href="https://github.com/minoru-s/mp3-title-editor-macos">mp3-title-editor-macos</a></strong><br><sub>ファイル名や音声を変えず、MP3内部のタイトル情報（ID3タグ）だけを書き換える小さなMacアプリです。</sub></td>
+<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-08-28</code></td>
 </tr>
 <tr>
 <td width="72" align="center"><a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="https://raw.githubusercontent.com/minoru-s/pdf-injection-detector/c8759bee71dca21fdd13bafbe78426c850a0b2cc/public/icon-192.png" width="48" height="48" alt="Open PDFender"></a></td>
