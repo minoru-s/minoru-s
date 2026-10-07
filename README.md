@@ -21,6 +21,11 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <!-- recent:start -->
 <table>
 <tr>
+<td width="72" align="center"><sub>REPO</sub></td>
+<td><strong><a href="https://github.com/minoru-s/mocap">mocap</a></strong><br><sub>モーションキャプチャによるロボットのモーションデータを素早く詳細に解析できるWebアプリ</sub></td>
+<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-10-06</code></td>
+</tr>
+<tr>
 <td width="72" align="center"><a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="https://raw.githubusercontent.com/minoru-s/pdf-injection-detector/c8759bee71dca21fdd13bafbe78426c850a0b2cc/public/icon-192.png" width="48" height="48" alt="Open PDFender"></a></td>
 <td><strong><a href="https://github.com/minoru-s/pdf-injection-detector">pdf-injection-detector</a></strong><br><sub>A static web app that detects prompt injections in PDFs, such as text placed inconspicuously or hidden behind other objects. ／ PDF内のプロンプトインジェクション（見えにくく配置された文字や他のオブジェクトに隠された文字）を検出する静的Webアプリ．</sub><br><a href="https://minoru-s.github.io/pdf-injection-detector/"><img src="./assets/status-live-v1.svg" height="24" alt="Launch live app"></a></td>
 <td width="105" align="right"><sub>UPDATED</sub><br><code>2026-10-06</code></td>
@@ -34,11 +39,6 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <td width="72" align="center"><sub>REPO</sub></td>
 <td><strong><a href="https://github.com/minoru-s/availability-calendar">availability-calendar</a></strong><br><sub>日程調整用の空き状況カレンダー</sub></td>
 <td width="105" align="right"><sub>UPDATED</sub><br><code>2026-09-28</code></td>
-</tr>
-<tr>
-<td width="72" align="center"><a href="https://minoru-s.github.io/portfolio/en/"><img src="https://raw.githubusercontent.com/minoru-s/portfolio/f53efcdd7689cc64a44bfe802b5bffcedc596c5c/portfolio-src/public/favicon.svg" width="48" height="48" alt="Open portfolio"></a></td>
-<td><strong><a href="https://github.com/minoru-s/portfolio">portfolio</a></strong><br><sub>ポートフォリオサイト</sub><br><a href="https://minoru-s.github.io/portfolio/en/"><img src="./assets/status-live-v1.svg" height="24" alt="Launch live app"></a></td>
-<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-09-26</code></td>
 </tr>
 </table>
 <!-- recent:end -->
