@@ -23,7 +23,7 @@ Haptics / VR / AR · Robotics · Browser-native research tools
 <tr>
 <td width="72" align="center"><sub>REPO</sub></td>
 <td><strong><a href="https://github.com/minoru-s/availability-calendar">availability-calendar</a></strong><br><sub>日程調整用の空き状況カレンダー</sub></td>
-<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-11-01</code></td>
+<td width="105" align="right"><sub>UPDATED</sub><br><code>2026-11-12</code></td>
 </tr>
 <tr>
 <td width="72" align="center"><a href="https://minoru-s.github.io/portfolio/en/"><img src="https://raw.githubusercontent.com/minoru-s/portfolio/f53efcdd7689cc64a44bfe802b5bffcedc596c5c/portfolio-src/public/favicon.svg" width="48" height="48" alt="Open portfolio"></a></td>
